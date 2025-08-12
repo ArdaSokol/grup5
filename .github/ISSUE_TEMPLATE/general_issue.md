@@ -1,8 +1,8 @@
 ---
 name: Organized Issue 
 about: Use this template for already organized template to enter information 
-title: "[Organized]: "
-labels: ["organized"]
+title: "[Task]: "
+labels: [" "]
 assignees: []
 ---
 
