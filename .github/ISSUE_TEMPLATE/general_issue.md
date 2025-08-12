@@ -5,31 +5,36 @@ title: "[Task]: "
 labels: [" "]
 assignees: []
 ---
+## 📝 Issue Description
+Clearly and briefly describe the purpose, scope, and reason for this task.  
+Attach any relevant documents, screenshots, or links if necessary.
 
-## Issue Description
-Provide a description 
+---
 
-## Tasks
+## ✅ Tasks
+- [x] Example completed task
+- [ ] To-do task 1
+- [ ] To-do task 2
 
-- [x] Task 1 
-- [ ] Task 2
+---
 
-## Acceptance Criteria
+## 🎯 Acceptance Criteria
+- [x] Example completed criterion
+- [ ] Clear, measurable, and testable criterion 1
+- [ ] Clear, measurable, and testable criterion 2
 
-- [x] Criterion 1 
-- [ ] Criterion 2
+---
 
-<!-- Ensure that the acceptance criteria are clear, testable, and aligned with the feature's objectives. Each criterion should be specific enough to determine whether the feature is successfully implemented. -->
+## ⏳ Estimated Time
+Estimated time: `e.g., 2–3 hours`
 
-## Estimated Time
-Provide an estimation for time 
+---
 
-## Deadline
-dd/mm/yyyy - hh/mm
+## 📅 Deadline
+`dd/mm - hh:mm`
 
-## Reviewer Assignment
+---
 
-Reviewer: @username <!-- Always assign someone --> <br />
-Review Deadline: dd/mm/yyyy - hh/mm <!-- Specify the review deadline -->
-
-<!-- DON'T FORGET TO LINK YOUR ISSUE TO THE CORRESPONDING PART IN THE MEETING NOTES -->
+## 👀 Reviewer Assignment
+Reviewer: @username <!-- Always assign a reviewer -->  
+Review Deadline: `dd/mm - hh:mm`
