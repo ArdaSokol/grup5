@@ -1,0 +1,10 @@
+blank_issues_enabled: false
+contact_links: []
+issue_templates:
+  - name: General Issue
+    description: Use this template for general issues
+    title: "[General]: "
+    labels: ["general"]
+    assignees: []
+    file: general_issue.md
+

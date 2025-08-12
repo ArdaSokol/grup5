@@ -1,3 +1,11 @@
+---
+name: General Issue
+about: Use this template for general issues
+title: "[General]: "
+labels: ["general"]
+assignees: []
+---
+
 ## Issue Description
 Provide a description 
 
