@@ -1,8 +1,8 @@
 ---
-name: General Issue
-about: Use this template for general issues
-title: "[General]: "
-labels: ["general"]
+name: Organized Issue 
+about: Use this template for already organized template to enter information 
+title: "[Organized]: "
+labels: ["organized"]
 assignees: []
 ---
 
